@@ -95,7 +95,7 @@
 	
 	<distributionManagement>
 	
-	    <repository>
+	   <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://13.127.219.126:8081/repository/paypal-dev/</url>
